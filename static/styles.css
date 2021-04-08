@@ -1,0 +1,13 @@
+#messages {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+#onliners {
+  height: 30px;
+  margin-top: 1000px;
+}
+
+#app {
+  margin-top: 2rem;
+}
